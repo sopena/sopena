@@ -2,7 +2,7 @@
 
 ### 📚 Sobre mim
 
-- 💻 **Engenheiro de Computação** na FURG, atualmente no 2º ano.
+- 💻 **Estudante de Engenharia de Computação** na FURG, atualmente no 2º ano.
 - 🧠 Apaixonado por **tecnologia, inteligência artificial e desenvolvimento de software**.
 - 💡 Focado em projetos de **Chatbots** e **Sistemas de Recomendação**.
 - 💥 Interessado em **Machine Learning**.
