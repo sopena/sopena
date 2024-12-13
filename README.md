@@ -38,7 +38,3 @@
 - **Instagram**: https://www.instagram.com/sopenajoao/
 
 🌟 _"Transformando ideias em códigos e inovação em realidade."_
-
----
-
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
