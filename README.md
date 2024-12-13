@@ -21,7 +21,7 @@
 ### 📚 Projetos em Destaque
 
 - **[Tetris em Python](https://github.com/sopena/Projeto_Tetris)**: Um jogo clássico criado com a biblioteca Pyxel.
-- **[Flappy Bird AI](https://github.com/sopena/Flappy-Bird-AI)**: Desenvolvendo um chatbot com IA para auxiliar mulheres na menopausa.
+- **[Flappy Bird AI](https://github.com/sopena/Flappy-Bird-AI)**: IA jogando flappy bird perfeitamente.
 
 ---
 
