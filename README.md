@@ -12,7 +12,7 @@
 ### 💡 Skills
 
 - **Linguagens de Programação**: Python.
-- **Ferramentas**: SQL, Botpress.
+- **Ferramentas**: Pandas, Numpy, MySQL, Botpress.
 - **Outros Conhecimentos**: Redes de Computadores, Metodologias Ágeis (SCRUM), Machine Learning, Banco de Dados.
 - **Idiomas**: Inglês Avançado (Diploma CCAA).
 
